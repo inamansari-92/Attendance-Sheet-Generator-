@@ -94,17 +94,6 @@ The application calculates points based on:
 - Absent: -5 points
 - Perfect monthly attendance: +20 points bonus
 
-## Screenshots
-
-![Main Interface](https://via.placeholder.com/600x400?text=Main+Interface)
-*Main attendance tracking interface*
-
-![Daily Report](https://via.placeholder.com/600x400?text=Daily+Report)
-*Sample daily attendance report*
-
-![Monthly Report](https://via.placeholder.com/600x400?text=Monthly+Report)
-*Sample monthly performance report*
-
 ## File Structure
 
 ```
