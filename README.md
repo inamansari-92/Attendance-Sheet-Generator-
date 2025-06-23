@@ -1,10 +1,8 @@
-# Staff Attendance Management System
-
-![Attendance Management](https://via.placeholder.com/800x400?text=Attendance+Management+System)
+Staff Attendance Management System
 
 A comprehensive web application for tracking staff attendance, calculating performance points, and generating detailed reports with PDF export capabilities.
 
-## Features
+Features
 
 - **Daily Attendance Tracking**: Record staff attendance with office, field work, or absent statuses
 - **Automated Points System**: Calculate performance points based on:
